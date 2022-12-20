@@ -1,5 +1,3 @@
-from node import Node
-
 def bfs(graph, startNode):
     visited = []
     queue = []
